@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖 About Me
 🎓 B.Tech Electronics & Communication Engineering (ECE) Student<br><br>💡 Passionate about Artificial Intelligence & Machine Learning (AI/ML), Embedded Systems, and Embedded Linux<br><br>🔭 Currently building skills in Embedded Systems, Linux, Machine Learning, and Data Science<br><br>🌱 Exploring TinyML, Edge AI, IoT, and AI-powered Embedded Applications<br><br>🚀 Dedicated to developing intelligent, efficient, and real-world solutions at the intersection of AI and Embedded Technology<br><br>💻 Working with Python, C/C++, Arduino, Git, and Linux<br><br>⚡ Aspiring Embedded AI Engineer focused on creating next-generation Edge AI and Embedded Linux solutions
 
 
