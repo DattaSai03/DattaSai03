@@ -12,6 +12,39 @@
 ![](https://streak-stats.demolab.com/?user=DattaSai03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DattaSai03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🚀 Featured Projects
+
+## 🌿 AROGYA SAHAY
+
+AI-powered digital healthcare assistant that provides symptom analysis, chronic disease management, medication tracking, wellness coaching, and personalized health insights.
+
+[![View Repository](https://img.shields.io/badge/🔗_View_Repository-AROGYA_SAHAY-success?style=for-the-badge\&logo=github)](https://github.com/DattaSai03/ArogyaSahay)
+
+---
+
+## 💊 Smart Medical Dispenser
+
+Arduino-based healthcare system that automates medicine reminders, compartment dispensing, Bluetooth notifications, tablet tracking, and emergency alerts.
+
+[![View Repository](https://img.shields.io/badge/🔗_View_Repository-Smart_Medical_Dispenser-blue?style=for-the-badge\&logo=github)](https://github.com/DattaSai03/Smart-Medical-Dispenser)
+
+---
+
+## 🚧 Smart Obstacle Detection System
+
+Embedded assistive technology for visually impaired individuals using ultrasonic sensors, real-time obstacle detection, and directional buzzer alerts.
+
+[![View Repository](https://img.shields.io/badge/🔗_View_Repository-Obstacle_Detection-orange?style=for-the-badge\&logo=github)](https://github.com/DattaSai03/Smart_Obstacle_Detection_System)
+
+---
+
+## 🤖 Machine Learning & Deep Learning Projects
+
+Collection of ML and DL projects including Credit Scoring, Speech Emotion Recognition, Handwritten Character Recognition, and Disease Prediction developed during the CodeAlpha Internship.
+
+[![View Repository](https://img.shields.io/badge/🔗_View_Repository-ML_Projects-red?style=for-the-badge\&logo=github)](https://github.com/DattaSai03/codealpha_tasks)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DattaSai03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -21,4 +54,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=DattaSai03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
